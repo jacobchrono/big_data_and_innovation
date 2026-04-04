@@ -1,0 +1,16 @@
+rule_primary_reason_detected,flagged_for_review,count
+no_rule,0,13607521
+egregious_billed_charge,0,940481
+external_edit,0,224036
+upcoding_pattern,0,95709
+egregious_billed_charge,1,63518
+denied_repeat_pattern,0,31735
+outlier_member_submit,0,21421
+duplicate_signature,1,5812
+no_rule,1,5290
+price_above_contract,1,2063
+upcoding_pattern,1,1114
+external_edit,1,768
+provider_volume_outlier,0,258
+denied_repeat_pattern,1,146
+outlier_member_submit,1,128

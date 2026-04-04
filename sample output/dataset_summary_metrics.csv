@@ -1,0 +1,15 @@
+metric,value
+rows,15000000.0
+unique_members,6021098.0
+unique_providers,195000.0
+unique_encounters,7330378.0
+line_fraud_rate,0.001246
+line_flag_rate,0.005256
+claim_fraud_rate,0.001943
+claim_flag_rate,0.005353
+encounter_fraud_rate,0.002476
+encounter_flag_rate,0.006881
+denial_rate,0.040229
+pharmacy_share,0.033477
+institutional_share,0.299354
+linked_facility_professional_share,0.18705

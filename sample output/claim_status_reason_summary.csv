@@ -1,0 +1,8 @@
+claim_status,denial_reason,count
+paid,,14396560
+denied,eligibility,100832
+denied,timely_filing,100782
+denied,coordination_of_benefits,100736
+denied,duplicate,100531
+denied,prior_auth,100331
+denied,noncovered,100228

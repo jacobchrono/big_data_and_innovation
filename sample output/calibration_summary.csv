@@ -1,0 +1,4 @@
+level,fraud_rate,flag_rate,flag_minus_fraud,flag_rate_exceeds_fraud_rate
+line,0.001246,0.005256,0.00401,True
+claim,0.001943,0.005353,0.00341,True
+encounter,0.002476,0.006881,0.004405,True
